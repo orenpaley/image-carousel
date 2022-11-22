@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Smokeshots and Snapshots matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    />
+    <img
+      class="Card-image"
+    />
+    <small
+      class="Card-small"
+    >
+      Image  of .
+    </small>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Smokeshots and Snapshots matches snapshot 2`] = `
+<DocumentFragment>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    >
+      image1.jpg
+    </h4>
+    <img
+      alt="image1.jpg"
+      class="Card-image"
+    />
+    <small
+      class="Card-small"
+    >
+      Image  of .
+    </small>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Smokeshots and Snapshots matches snapshot 3`] = `
+<DocumentFragment>
+  <div
+    class="Card"
+  >
+    <h4
+      class="Card-title"
+    >
+      bad
+    </h4>
+    <img
+      alt="bad"
+      class="Card-image"
+    />
+    <small
+      class="Card-small"
+    >
+      Image  of .
+    </small>
+  </div>
+</DocumentFragment>
+`;
